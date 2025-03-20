@@ -2,4 +2,4 @@
 
 chennel 0 [http://r0.kro.kr], core file [http://u0.kro.kr], chennel 1 [http://l0.kro.kr] domain inf save system
 
-## core file : [./v.js]
+## core file : [https://./v.js]
